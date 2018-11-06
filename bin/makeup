@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/Makeup.rb'
+
+Makeup::CLI.new.call
+
+# puts "Hello World!"
